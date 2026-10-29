@@ -29,7 +29,7 @@ Ensure you have **Node.js (v18.x or higher)** and npm/yarn installed locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HiraniDotCom/skinstric
+   git clone https://github.com/HiraniDotCom/msh-skinstric
    ```
 
 2. Install dependencies:
