@@ -21,10 +21,6 @@ Solo Internship Project - challenge was to create a routed app that collects use
 
 ## ⚙️ Getting Started
 
-### Prerequisites
-
-Ensure you have **Node.js (v18.x or higher)** and npm/yarn installed locally.
-
 ### Installation
 
 1. Clone the repository:
